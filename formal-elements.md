@@ -8,9 +8,10 @@
 
 המשחק הוא משחק מחשב.
 השחקן משחק בתור אוגר שנמצא בתוך כדור. השחקן מתחיל ממעלה ההר ומשם מתגלגל כאשר בדרך למטה הוא נתקל במכשולים שונים מהם הוא צריך להתחמק. בנוסף יש לו power-ups שהוא יכול לקחת שיעזרו לו להגיע עד למטה בקלות יותר. במהלך הדרך השחקן צריך לאסוף את הילדים שלו ולהגיע לסוף המסלול שנמצא למטה בתחתית ההר. השחקן מקבל ניקוד על פי כמות הילדים שהצליח לאסוף ולפי דברים אחרים שאסף בדרך שמזכות אותו בנקודות בונוס.
+ 
+![image](https://user-images.githubusercontent.com/74373665/226650314-bdf2312a-8339-4825-9459-9219b6e296d8.png)
 
-
-
+---
 ## רכיבים רשמיים
 
 ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
@@ -73,10 +74,13 @@
 תוצאת המשחק בעיקר תלויה בנסיון של השחקן לאורך המשחק. ככל שהשחקן ישחק יותר במשחק, הוא יצבור יותר נסיון ויהיה טוב יותר. 
  
 קישור למשחק ראשון: https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=US
- 
+ ![image](https://user-images.githubusercontent.com/74373665/226650093-18965d5f-7f2b-4bf2-a262-16fde3ec6b20.png)
+
 קישור למשחק שני: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM&hl=en&gl=US
- 
+ ![image](https://user-images.githubusercontent.com/74373665/226650136-b0673516-16f2-4ba4-ab3e-c013614be0d4.png)
+
 קישור למשחק שלישי: https://play.google.com/store/apps/details?id=io.fraigo.hamsterapp&hl=en&gl=US
+![image](https://user-images.githubusercontent.com/74373665/226650175-d519c22c-e43b-4b9d-97f8-36210e9ab118.png)
 
  חיפשנו בגוגל משחקים עם מילות המפתח: hamster, race, ball, running
 
