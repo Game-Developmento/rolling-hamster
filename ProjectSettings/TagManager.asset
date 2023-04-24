@@ -41,6 +41,9 @@ TagManager:
   - name: Background
     uniqueID: 237982077
     locked: 0
+  - name: Hill
+    uniqueID: 2858878677
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
