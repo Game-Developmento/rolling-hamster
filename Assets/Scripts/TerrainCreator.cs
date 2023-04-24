@@ -7,7 +7,7 @@ public class TerrainCreator : MonoBehaviour
 {
     [SerializeField] public SpriteShapeController shape;
     [SerializeField] public int posScale = 1000;
-    [SerializeField] public int ptScale = 20;
+    [SerializeField] public int ptScale = 5;
     [SerializeField] public int numOfPts = 100;
     [SerializeField] private float distBetweenPts; // Offset between points
 
@@ -21,7 +21,7 @@ public class TerrainCreator : MonoBehaviour
         for (int i = 0; i < numOfPts; ++i)
         {
             float xPos = shape.spline.GetPosition(i + 1).x + distBetweenPts;
-            float noise = Mathf.PerlinNoise(i * Random.Range(5.0f, 10.0f), 0);
+            float noise = Mathf.PerlinNoise(i, 0);
             shape.spline.InsertPointAt(i + 2, new Vector3(xPos, ptScale * noise, 0));
         }
 

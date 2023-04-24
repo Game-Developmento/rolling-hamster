@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - Barrier
   layers:
   - Default
   - TransparentFX
@@ -43,6 +45,9 @@ TagManager:
     locked: 0
   - name: Hill
     uniqueID: 2858878677
+    locked: 0
+  - name: Barrier
+    uniqueID: 3302568635
     locked: 0
   - name: Default
     uniqueID: 0
